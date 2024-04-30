@@ -10,7 +10,7 @@ Nüwa is a framework for learning side-channel contextual relationships from enc
 
 
 
-<img src="\GitHub\images\nvwa.png" alt="nvwa" style="zoom:24%;" />
+<img src="https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/nvwa.png" alt="nvwa" style="zoom:24%;" />
 
 
 
@@ -35,7 +35,7 @@ This module serves as a word-level embedding technique for side-channel feature 
 * __TFI: a Traffic Side-Channel Feature Imputation Module.__
   TFI is the model used to impute the missing side-channel features in the input sequences.
 
-<img src="\picture\background.png" alt="background" style="zoom:20%;" />
+<img src="https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png" alt="background" style="zoom:20%;" />
 
 Fig. 1 Background
 
