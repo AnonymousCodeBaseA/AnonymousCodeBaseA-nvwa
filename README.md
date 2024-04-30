@@ -20,7 +20,7 @@ Nüwa is a framework for learning side-channel contextual relationships from enc
 - [Requirements](#Requirements)
 - [Dataset and preparation](#Dataset-and-preparation)
 - [Using Nüwa](#Using-Nüwa)
-- [Reproduce Nüwa](#Reproduce Nüwa)
+- [Reproduce Nüwa](#Reproduce-Nüwa)
 - [Acknowledgement](#Acknowledgement) 
 
 # Introduction  
