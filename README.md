@@ -33,10 +33,16 @@ This module serves as a word-level embedding technique for side-channel feature 
 * __TFI: a Traffic Side-Channel Feature Imputation Module.__
   TFI is the model used to impute the missing side-channel features in the input sequences.
 
-<img src="https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png" alt="background" style="zoom:20%;" />
+
+
+<div align="center">
+<img src=https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png width=50% />
+</div>  
 
 
 <p align="center">Fig. 2 Background</p>
+
+
 
 # Requirements
 
@@ -90,7 +96,7 @@ python train_test_data.py
 
 You can now use Nüwa directly through the pre-trained [model](https://drive.google.com/drive/folders/1CtZaJN0-gMPKFv3z8F8GBivZHo4pboSP?usp=sharing) or download via:
 
-After obtaining the pre-trained model, Nüwa could be applied to the missing feature imputation task by TFI at session level. The default path of the TFI model is `models/model.safetensors`, and the vocab et .al are all in the `model`. Then you can do inference with the feature imputation model:
+After obtaining the pre-trained model, Nüwa could be applied to the missing feature imputation task by TFI at session level. The default path of the TFI model is `model/model.safetensors`, and the `vocab` et .al are all in the `model`. Then you can do inference with the feature imputation model:
 
 ```shell
 # import the download pre-training model, and run:
