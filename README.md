@@ -8,7 +8,7 @@
 
 Nüwa is a framework for learning side-channel contextual relationships from encrypted traffic, which could be effectiveness applied to different encrypted traffic scenarios to **enhance the ML/DL model's performance with pack loss**. Nüwa consists of two stages: (1) pre-training to learn patterns of application side-channel features with unlabeled data, and (2) imputation of missing data within input sequences.
 
-<img src="[C:\Users\zfqi1\Desktop\TFIP\GitHub\images\nvwa.png](https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png?raw=true)" alt="nvwa" style="zoom:25%
+<img src="https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png" alt="nvwa" style="zoom:25%;" />
 
 <p align="center">Fig. 1 Overview of Nüwa</p>
 
