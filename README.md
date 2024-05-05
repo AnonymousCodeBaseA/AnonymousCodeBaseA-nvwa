@@ -88,7 +88,7 @@ python train_test_data.py
 
 # USing Nüwa
 
-You can now use ET-BERT directly through the pre-trained [model](https://) or download via:
+You can now use Nüwa directly through the pre-trained [model](https://drive.google.com/drive/folders/1CtZaJN0-gMPKFv3z8F8GBivZHo4pboSP?usp=sharing) or download via:
 
 After obtaining the pre-trained model, Nüwa could be applied to the missing feature imputation task by TFI at session level. The default path of the TFI model is `models/model.safetensors`, and the vocab et .al are all in the `model`. Then you can do inference with the feature imputation model:
 
