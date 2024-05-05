@@ -8,11 +8,7 @@
 
 Nüwa is a framework for learning side-channel contextual relationships from encrypted traffic, which could be effectiveness applied to different encrypted traffic scenarios to **enhance the ML/DL model's performance with pack loss**. Nüwa consists of two stages: (1) pre-training to learn patterns of application side-channel features with unlabeled data, and (2) imputation of missing data within input sequences.
 
-
-
-<img src="C:\Users\zfqi1\Desktop\TFIP\GitHub\images\nvwa.png" alt="nvwa" style="zoom:24%;" />
-
-
+![image](https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/background.png?raw=true)
 
 
 # Contents
@@ -35,7 +31,7 @@ This module serves as a word-level embedding technique for side-channel feature 
 * __TFI: a Traffic Side-Channel Feature Imputation Module.__
   TFI is the model used to impute the missing side-channel features in the input sequences.
 
-<img src="C:\Users\zfqi1\Desktop\TFIP\picture\background.png" alt="background" style="zoom:20%;" />
+![image](https://github.com/AnonymousCodeBaseA/AnonymousCodeBaseA-nvwa/blob/main/images/nvwa.png?raw=true)
 
 Fig. 1 Background
 
